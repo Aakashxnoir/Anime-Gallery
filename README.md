@@ -1,4 +1,4 @@
-# 🎬 Anime Scene Gallery
+# 🎬 Anime Gallery
 
 An interactive gallery featuring iconic scenes from my favorite anime series, built with React and Framer Motion. Each title reveals three carefully chosen scenes with dynamic animations and mouse-tracked motion effects.
 
@@ -27,10 +27,3 @@ I've been on a mission to make something fun with my favorite anime scenes. Most
 2. Install dependencies: `npm install`
 3. Run development server: `npm run dev`
 4. Open `http://localhost:5173` in your browser
-
-## 🎞️ Preview
-
-
-
-https://github.com/user-attachments/assets/266b81be-dade-4942-8b06-38494194b941
-
