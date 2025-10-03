@@ -27,3 +27,7 @@ I've been on a mission to make something fun with my favorite anime scenes. Most
 2. Install dependencies: `npm install`
 3. Run development server: `npm run dev`
 4. Open `http://localhost:5173` in your browser
+
+
+https://github.com/user-attachments/assets/a250d5bb-2907-43fb-908f-6c3b6f39ae90
+
